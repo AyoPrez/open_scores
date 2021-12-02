@@ -57,6 +57,9 @@ captures/
 
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
+.cxx
+local.properties
+/.idea/
 .cxx/
 
 # Google Services (e.g. APIs or Firebase)
