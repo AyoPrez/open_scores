@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Open Scores</string>
-    <string name="football">Football</string>
+    <string name="football">Soccer</string>
     <string name="basketball">Basketball</string>
     <string name="sport_selection_explanation">Choose a sport</string>
     <string name="back">Back</string>

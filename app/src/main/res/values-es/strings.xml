@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Open Scores</string>
+    <string name="football">Futbol</string>
+    <string name="basketball">Baloncesto</string>
+    <string name="sport_selection_explanation">Elige un deporte</string>
+    <string name="back">Atrás</string>
+    <string name="search_team">Buscar equipo</string>
+</resources>
