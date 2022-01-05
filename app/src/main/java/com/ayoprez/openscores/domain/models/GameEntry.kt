@@ -1,4 +1,4 @@
-package com.ayoprez.openscores.model
+package com.ayoprez.openscores.domain.models
 
 data class GameEntry(
     val id: String,

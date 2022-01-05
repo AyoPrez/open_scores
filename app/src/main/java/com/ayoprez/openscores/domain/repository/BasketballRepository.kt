@@ -1,7 +1,7 @@
-package com.ayoprez.openscores.repository
+package com.ayoprez.openscores.domain.repository
 
 import com.ayoprez.openscores.data.remote.response.AllGamesModel
-import com.ayoprez.openscores.utils.ResponseHelper
+import com.ayoprez.openscores.data.utils.ResponseHelper
 import java.time.LocalDate
 
 interface BasketballRepository {

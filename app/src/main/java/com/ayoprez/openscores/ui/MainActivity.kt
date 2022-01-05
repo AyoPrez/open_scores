@@ -1,4 +1,4 @@
-package com.ayoprez.openscores
+package com.ayoprez.openscores.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

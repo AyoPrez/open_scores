@@ -5,4 +5,5 @@
     <string name="sport_selection_explanation">Ein Sport whälen</string>
     <string name="back">Zurück</string>
     <string name="search_team">Team suchen</string>
+    <string name="navigate_up">Zurück navigieren</string>
 </resources>

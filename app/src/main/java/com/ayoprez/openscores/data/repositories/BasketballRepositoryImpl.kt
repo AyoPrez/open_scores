@@ -1,8 +1,9 @@
-package com.ayoprez.openscores.repository
+package com.ayoprez.openscores.data.repositories
 
 import com.ayoprez.openscores.data.remote.BasketApi
 import com.ayoprez.openscores.data.remote.response.AllGamesModel
-import com.ayoprez.openscores.utils.ResponseHelper
+import com.ayoprez.openscores.data.utils.ResponseHelper
+import com.ayoprez.openscores.domain.repository.BasketballRepository
 import dagger.hilt.android.scopes.ActivityScoped
 import java.text.SimpleDateFormat
 import java.time.LocalDate

@@ -5,4 +5,5 @@
     <string name="sport_selection_explanation">Choose a sport</string>
     <string name="back">Back</string>
     <string name="search_team">Search team</string>
+    <string name="navigate_up">Navigate back</string>
 </resources>
